@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="qqmusic.dao.CommentDao">
+    <insert id="insert" parameterType="Comment">
+        insert into tb_pl values(default,#{geming},#{plren},#{time},#{pinglun})
+    </insert>
+
+    <select id="getAll" parameterType="java.lang.String" resultType="Comment">
+        select geming,time,plren,id,pinglun from tb_pl
+        <if test="_parameter!=null">
+            where geming=#{geming}
+        </if>
+    </select>
+</mapper>

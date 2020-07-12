@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="qqmusic.dao.PlaylistDao">
+    <select id="getAll" parameterType="java.lang.String" resultType="Playlist">
+        select geming,geshou,time,image,type from tb_xd
+        <if test="_parameter!=null">
+            where type=#{type}
+        </if>
+    </select>
+
+    <select id="get" parameterType="java.lang.String" resultType="Playlist">
+        select geming,geshou,time,image,type from tb_xd
+        <if test="_parameter!=null">
+            where geming=#{geming}
+        </if>
+    </select>
+</mapper>

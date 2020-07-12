@@ -1,0 +1,19 @@
+.box{
+	margin: auto;
+	width:200px;
+	height:200px;	
+	border:2px solid #000000 ; 
+	background-color: #C3C3C3;	
+	overflow: hidden;
+}
+img{	
+	width: 200px;
+	height: 200px;
+	transition: all 3s;	
+	margin-top: 50px;
+	margin-left: 50px;
+	
+}
+img:hover{
+	transform: scale(1.3);
+}

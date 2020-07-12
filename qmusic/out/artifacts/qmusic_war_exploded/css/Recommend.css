@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0 auto;
+}
+.List_recommend{
+    width: 1700px;
+    height: 500px;
+    /*background: linear-gradient(to bottom, #f2f2f2, #ffffff);*/
+    background: linear-gradient(to top, #f2f2f2, #ffffff);
+
+    /*background: linear-gradient(to bottom, #c4c4c4, #f2f2f2);*/
+
+    float: left;
+}
+.For_you{
+    width: 720px;
+    height: 40px;
+    margin-left: 25%;
+    /*background-color: #00c758;*/
+}
+.For_you nav{
+    width: 720px;
+    height:40px;
+    /*background-color: brown;*/
+    margin-left: 20%;
+}
+.For_you nav a{
+    text-decoration: none;
+    margin-left: 50px;
+    line-height: 40px;
+    color: black;
+}
+.For_you nav a:hover{
+    color: #00c758;
+}
+
+.List_music{
+    width: 80%;
+    height:380px;
+    /*background-color: brown;*/
+    margin-left: 12%;
+}
+.music{
+    width: 20%;
+    height: 380px;
+    /*background-color: aquamarine;*/
+    float: left;
+}
+.picture{
+    width: 240px;
+    height: 380px;
+    /*background-color: grey;*/
+    float: left;
+}
+.picture img{
+    margin-top: 30px;
+    width: 240px;
+    height: 240px;
+}
+.picture_down{
+    width: 240px;
+    height: 70px;
+    /*background-color: gold;*/
+    float: left;
+}
+.picture_down a{
+    text-decoration: none;
+    color: black;
+}
+.picture_down a:hover{
+    color: #00c758;
+}
+.picture_down p{
+    color: #c3c3c3;
+}
