@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e5ffd99-2fb6-4841-baab-a0c9fcda2df2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/math/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/LeetCode719/LeetCode719.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redisjedis/src/main/java/redisjedis/TestJedis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/TestPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/hash/HashTabDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/nk/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/nk/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/sort/QuickSortMiddleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/sourcecode/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/staticdemo/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/staticdemo/StaticExtendsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/tree/HeapSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../struct/src/com/tree/SerpentineTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inteloper" beforeDir="false" afterPath="$PROJECT_DIR$/../inteloper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/WEB-INF/classes/config/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/WEB-INF/classes/config/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/WEB-INF/classes/config/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/WEB-INF/classes/config/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/css/xindiedetail.css" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/css/xindiedetail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/views/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/views/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/xindie_gangtai.html" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/xindie_gangtai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/xindiedetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/artifacts/qmusic_war_exploded/xindiedetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/production/qmusic/config/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/production/qmusic/config/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/out/production/qmusic/config/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/out/production/qmusic/config/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/src/config/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/src/config/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/src/config/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/src/config/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/src/qqmusic/controller/PlaylistHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/src/qqmusic/controller/PlaylistHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/web/css/xindiedetail.css" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/web/css/xindiedetail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/web/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/web/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/web/views/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/web/views/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/web/xindie_gangtai.html" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/web/xindie_gangtai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qmusic/web/xindiedetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../qmusic/web/xindiedetail.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/optional/OptionalDemoA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lambda/LambdaDemoA.java" />
+        <option value="$PROJECT_DIR$/src/lambda/LambdaDemoB.java" />
+        <option value="$PROJECT_DIR$/src/lambda/LambdaDemoC.java" />
+        <option value="$PROJECT_DIR$/src/lambda/LambdaDenoD.java" />
+        <option value="$PROJECT_DIR$/src/lambda/LamdbaDemoE.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoA.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoB.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoC.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoD.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoE.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoF.java" />
+        <option value="$PROJECT_DIR$/src/stream/StreamAPIDemoG.java" />
+        <option value="$PROJECT_DIR$/src/optional/OptionalDemoA.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="997" />
+    <option name="y" value="361" />
+    <option name="width" value="1300" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.23546799" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OptionalDemoA">
+    <configuration name="OptionalDemoA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optional.OptionalDemoA" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPIDemoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamAPIDemoD" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPIDemoE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamAPIDemoE" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPIDemoF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamAPIDemoF" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPIDemoG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.StreamAPIDemoG" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OptionalDemoA" />
+        <item itemvalue="Application.StreamAPIDemoG" />
+        <item itemvalue="Application.StreamAPIDemoF" />
+        <item itemvalue="Application.StreamAPIDemoE" />
+        <item itemvalue="Application.StreamAPIDemoD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e5ffd99-2fb6-4841-baab-a0c9fcda2df2" name="Default Changelist" comment="" />
+      <created>1598072275838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598072275838</updated>
+      <workItem from="1598072277756" duration="12550000" />
+      <workItem from="1598108437736" duration="4667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17217000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42917848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29320112" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21581769" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6084337" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29320112" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaDemoA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaDemoB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="54" selection-start-line="54" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaDenoD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaDemoC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/LamdbaDemoE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stream/StreamAPIDemoG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/optional/OptionalDemoA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23546799" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23546799" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23546799" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23546799" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
